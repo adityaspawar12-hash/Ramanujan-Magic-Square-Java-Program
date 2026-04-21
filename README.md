@@ -24,7 +24,7 @@ It then applies a predefined mathematical pattern to generate a magic square.
 
 Magic Number = DD + MM + CC + YY
 
-## 💻 Technologies Used
+## Technologies Used
 
 - Java
 - Scanner class (for input)
