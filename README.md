@@ -1,5 +1,5 @@
 # Ramanujan-Magic-Square-Java-Program
-First Project
+//First Project
 
 import java.util.Scanner;
 
