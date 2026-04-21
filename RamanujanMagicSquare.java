@@ -5,7 +5,7 @@ public class RamanujanMagicSquare {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("--- Ramanujan Birthday Magic Square Generator ---");
+        System.out.println("Ramanujan Birthday Magic Square Generator ");
 
         System.out.print("Enter Day (DD): ");
         int A = sc.nextInt();
@@ -29,7 +29,7 @@ public class RamanujanMagicSquare {
         };
 
         System.out.println("\nYour Birthday Magic Square:");
-        System.out.println("-----------------------------");
+        System.out.println("------------------------------");
 
         for (int[] row : square) {
             for (int value : row) {
@@ -38,7 +38,7 @@ public class RamanujanMagicSquare {
             System.out.println();
         }
 
-        System.out.println("-----------------------------");
+        System.out.println("------------------------------");
         System.out.println("Magic Number: " + magicNumber);
 
         sc.close();
